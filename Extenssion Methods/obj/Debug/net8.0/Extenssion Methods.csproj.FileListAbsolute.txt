@@ -1,0 +1,16 @@
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\bin\Debug\net8.0\Extenssion Methods.deps.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\bin\Debug\net8.0\Extenssion Methods.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\bin\Debug\net8.0\Extenssion Methods.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\bin\Debug\net8.0\ApplicationData.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\bin\Debug\net8.0\ApplicationData.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssion Methods.csproj.AssemblyReference.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssion Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssion Methods.AssemblyInfoInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssion Methods.AssemblyInfo.cs
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssion Methods.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssion Methods.sourcelink.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssi.932EA58A.Up2Date
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssion Methods.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\refint\Extenssion Methods.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\Extenssion Methods.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\Extenssion Methods\obj\Debug\net8.0\ref\Extenssion Methods.dll

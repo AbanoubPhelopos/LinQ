@@ -1,0 +1,16 @@
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\bin\Debug\net8.0\LinQ.deps.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\bin\Debug\net8.0\LinQ.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\bin\Debug\net8.0\LinQ.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\bin\Debug\net8.0\ApplicationData.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\bin\Debug\net8.0\ApplicationData.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.csproj.AssemblyReference.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfo.cs
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.sourcelink.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.csproj.Up2Date
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\refint\LinQ.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\LinQ.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\LinQ\obj\Debug\net8.0\ref\LinQ.dll

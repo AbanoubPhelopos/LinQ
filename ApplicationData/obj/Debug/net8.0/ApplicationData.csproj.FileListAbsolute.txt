@@ -1,0 +1,12 @@
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\bin\Debug\net8.0\ApplicationData.deps.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\bin\Debug\net8.0\ApplicationData.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\bin\Debug\net8.0\ApplicationData.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\ApplicationData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\ApplicationData.AssemblyInfoInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\ApplicationData.AssemblyInfo.cs
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\ApplicationData.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\ApplicationData.sourcelink.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\ApplicationData.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\refint\ApplicationData.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\ApplicationData.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\ApplicationData\obj\Debug\net8.0\ref\ApplicationData.dll

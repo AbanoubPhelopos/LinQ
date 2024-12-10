@@ -1,9 +1,17 @@
-﻿namespace TestCode;
+﻿using ApplicationData.Data;
+using ApplicationData.Models;
+
+namespace TestCode;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        ApplicationDbContext _db = new();
+        var customers = _db.Customers.ToList();
+        foreach (var item in customers)
+        {
+            Console.WriteLine(item);
+        }
     }
 }

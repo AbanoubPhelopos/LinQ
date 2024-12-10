@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestCode/1.0.0": {
+        "dependencies": {
+          "ApplicationData": "1.0.0",
+          "LinQ": "1.0.0"
+        },
+        "runtime": {
+          "TestCode.dll": {}
+        }
+      },
+      "ApplicationData/1.0.0": {
+        "runtime": {
+          "ApplicationData.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Extenssion Methods/1.0.0": {
+        "dependencies": {
+          "ApplicationData": "1.0.0"
+        },
+        "runtime": {
+          "Extenssion Methods.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LinQ/1.0.0": {
+        "dependencies": {
+          "ApplicationData": "1.0.0"
+        },
+        "runtime": {
+          "LinQ.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApplicationData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Extenssion Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

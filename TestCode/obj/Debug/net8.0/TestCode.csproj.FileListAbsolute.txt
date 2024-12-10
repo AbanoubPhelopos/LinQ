@@ -1,0 +1,23 @@
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\TestCode.exe
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\TestCode.deps.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\TestCode.runtimeconfig.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\TestCode.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\TestCode.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\ApplicationData.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\Extenssion Methods.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\LinQ.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\ApplicationData.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\Extenssion Methods.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\bin\Debug\net8.0\LinQ.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.csproj.AssemblyReference.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.AssemblyInfoInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.AssemblyInfo.cs
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.sourcelink.json
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.csproj.Up2Date
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\refint\TestCode.dll
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.pdb
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\TestCode.genruntimeconfig.cache
+C:\Users\Abanoub Saweris\RiderProjects\LinQ\TestCode\obj\Debug\net8.0\ref\TestCode.dll
