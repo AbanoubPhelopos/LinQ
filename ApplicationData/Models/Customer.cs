@@ -24,5 +24,5 @@ public class Customer
     }
     public override string ToString()
         => $"Id : {CustomerID}, Name : {CustomerName}, Address : {Address}, City : {City}\n" +
-           $" Region : {Region}, PostalCode : {PostalCode}, Country : {Country}, Phone : {Phone}, Fax : {Fax}";
+           $"\t Region : {Region}, PostalCode : {PostalCode}, Country : {Country}, Phone : {Phone}, Fax : {Fax}";
 }
