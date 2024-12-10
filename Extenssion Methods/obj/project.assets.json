@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ApplicationData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ApplicationData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApplicationData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplicationData/1.0.0": {
+      "type": "project",
+      "path": "../ApplicationData/ApplicationData.csproj",
+      "msbuildProject": "../ApplicationData/ApplicationData.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ApplicationData >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Abanoub Saweris\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Abanoub Saweris\\RiderProjects\\LinQ\\Extenssion Methods\\Extenssion Methods.csproj",
+      "projectName": "Extenssion Methods",
+      "projectPath": "C:\\Users\\Abanoub Saweris\\RiderProjects\\LinQ\\Extenssion Methods\\Extenssion Methods.csproj",
+      "packagesPath": "C:\\Users\\Abanoub Saweris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Abanoub Saweris\\RiderProjects\\LinQ\\Extenssion Methods\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Abanoub Saweris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Abanoub Saweris\\RiderProjects\\LinQ\\ApplicationData\\ApplicationData.csproj": {
+              "projectPath": "C:\\Users\\Abanoub Saweris\\RiderProjects\\LinQ\\ApplicationData\\ApplicationData.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
