@@ -64,7 +64,7 @@ The entry point for the project, which executes and demonstrates:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/AbanoubPhelopos/LinQ/tree/master>
    ```
 2. Open the project in Visual Studio or your preferred IDE.
 3. Build the solution to restore dependencies.
