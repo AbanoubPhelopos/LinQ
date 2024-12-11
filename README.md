@@ -6,18 +6,11 @@ This project demonstrates the use of **LINQ (Language Integrated Query)** and **
 ## Project Structure
 
 ### 1. **Class Libraries**
-#### **ApplicationData.Models**
-Contains the foundational models used across the project:
-- **`Person`**: A class with the following properties:
-  - `Name` *(string)*: Represents the name of a person.
-  - `DateOfBirth` *(DateTime)*: Represents the birth date of a person.
+#### **ApplicationData**
+Contains the data models and a mock database context.
 
 #### **Extenssion_Methods**
 Contains utility methods and demonstrates the power of extension methods:
-- **`Extenssions`**:
-  - **WithoutExtensionMethods()**: Calculates age and outputs results without using extension methods.
-  - **WithExtensionMethods()**: Uses extension methods to calculate age and check if the person is an adult.
-  - **StringExtenssion()**: Demonstrates string manipulation with chained extensions like `Trim()`.
 
 - **`PersonExtenssion`**:
   - **`GetAge(this Person person)`**: An extension method for the `Person` class to calculate age.
@@ -30,11 +23,18 @@ Contains implementations of LINQ queries for data manipulation and analysis:
   - Calculating total stock value by category.
   - Identifying the most expensive product in each category.
 
-- **`Queries`**: Provides solutions to common LINQ queries, such as:
-  - Finding out-of-stock products.
-  - Filtering products based on stock and price.
-  - Sorting products by name or category.
-  - Grouping products by category and calculating counts or sums.
+- **`Queries`**: Provides solutions to common LINQ queries which solve during the session, such as:
+  
+1. Find all products that are out of stock.
+2. Find all products that are in stock and cost more than 3.00 per unit and its price more than 15 $.
+3. Sort a list of products by name
+4. Sort a list of products by category then for the same category sort by price
+5. Return a sequence of just the names of a list of products.
+6. Return the first product whose Price > 1000, unless there is no match, in which case null is 
+7. Return a list of categories and how many products each has
+8. Get the total units in stock for each product category.
+9. Find the unique Category names from Product List
+10. Get the first 3 Products with Price more than 80
 
 ### 2. **Console Application**
 #### **TestCode**
@@ -80,6 +80,3 @@ When you run the project, you will see:
 
 ## Contribution
 Feel free to fork this repository and submit pull requests to improve or add new functionality.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
