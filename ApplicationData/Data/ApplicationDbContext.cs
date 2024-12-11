@@ -6,34 +6,10 @@ namespace ApplicationData.Data;
 public class ApplicationDbContext
 {
 	public List<Product>? Products { get; set; }
-	public List<Customer>? Customers { get; set; }
 
 	public ApplicationDbContext()
 	{
 		GenerateProducts();
-
-		int Id = 0;
-		Customers = (from e in XDocument.Load("Customers.xml").Root.Elements("customer")
-			select new Customer()
-			{
-				CustomerID = ++Id,
-				CustomerName = (string)e.Element("name"),
-				Address = (string)e.Element("address"),
-				City = (string)e.Element("city"),
-				Region = (string)e.Element("region"),
-				PostalCode = (string)e.Element("postalcode"),
-				Country = (string)e.Element("country"),
-				Phone = (string)e.Element("phone"),
-				Fax = (string)e.Element("fax"),
-				Orders = (
-					from o in e.Elements("orders").Elements("order")
-					select new Order
-					{
-						OrderID = (int)o.Element("id"),
-						OrderDate = (DateTime)o.Element("orderdate"),
-						Total = (decimal)o.Element("total")
-					}).ToArray()
-			}).ToList();
 	}
 
     private void GenerateProducts()
